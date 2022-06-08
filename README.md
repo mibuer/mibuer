@@ -1,6 +1,10 @@
 ### Hi there 👋 I`m Miriam
 
 I`m a Java Software Developer with background in the humanities as an art historian. 
+I would like to share the projects I worked on so far and looking foreward to find new challenges here and learn. 
+
+
+
 
 <!--
 **mibuer/mibuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
